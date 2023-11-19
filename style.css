@@ -8,7 +8,8 @@ h3{
     color: blue;
 }
 h4{
-    color: pink;
+    color: darkorchid;
+    font-size: large;
 }
 #learnt{
     color: purple;
@@ -16,7 +17,14 @@ h4{
 #learning{
     color: maroon;
 }
-img{
+.lebron{
     border-radius: 50%;
     height: 150;
+    width: 125 ;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightblue;
 }
