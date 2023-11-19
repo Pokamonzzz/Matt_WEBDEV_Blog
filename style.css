@@ -28,3 +28,15 @@ body{
     align-items: center;
     background-color: lightblue;
 }
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.quiz{
+    flex: 1 20%;
+    max-width: 48%;
+    height: auto; 
+    border: 2px solid black;
+    margin: 5px;
+}
